@@ -9,7 +9,7 @@
     "restart": "pm2 restart SulaMd"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:rans-beep/AngkasaBaileys",
+     "@whiskeysockets/baileys": "github:MR-LAKIYA/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@distube/ytdl-core": "^4.16.4",
     "denethdev-ytmp3":"1.0.3",
@@ -39,6 +39,7 @@
     "child_process":"1.0.2",
     "cheerio":"1.0.0-rc.12",
     "file-type":"16.5.3",
+    "@dark-yasiya/yt-dl.js": "latest",
     "@mrnima/tiktok-downloader":"1.0.0",
     "@mrnima/facebook-downloader":"1.0.0",
     "@dark-yasiya/news-scrap" : "latest",
@@ -49,6 +50,7 @@
     "crypto":"latest",
     "@ffmpeg-installer/ffmpeg": "latest",
     "fluent-ffmpeg": "latest",
+    "@dark-yasiya/imgbb.js": "latest",
     "sequelize":"^6.37.5",
     "xml2js": "0.6.2",
     "@sl-code-lords/si-subdl": "latest",
