@@ -9,7 +9,7 @@
     "restart": "pm2 restart SulaMd"
   },
   "dependencies": {
-    "github:Hupa11/Asithamdb",
+    "@whiskeysockets/baileys": "github:Hupa11/Asithamdb",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@distube/ytdl-core": "^4.16.4",
     "denethdev-ytmp3":"1.0.3",
